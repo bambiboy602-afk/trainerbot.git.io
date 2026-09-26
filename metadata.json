@@ -1,0 +1,6 @@
+{
+  "name": "Persona Learner & Scenario Bot",
+  "description": "An adaptive conversational partner and roleplay scenario simulator that learns your communication style, reasoning skills, preferences, and decision tendencies to generate exportable bot profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
