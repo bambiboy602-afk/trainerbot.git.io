@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chat Bubble representing communication and learning -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24C38.54,24 26,34.75 26,48C26,54.77 29.56,60.85 35.28,65.34L32,76L43.83,70.52C47.01,71.49 50.41,72 54,72C69.46,72 82,61.25 82,48C82,34.75 69.46,24 54,24Z" />
+    <!-- Small star or gear in the center representing intelligence/training -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M54,38L56.5,43.5L62.5,44L58,48L59.5,54L54,51L48.5,54L50,48L45.5,44L51.5,43.5Z" />
+</vector>
